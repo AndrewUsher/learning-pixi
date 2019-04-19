@@ -1,0 +1,9 @@
+{
+  "name": "learning-pixi",
+  "version": "1.0.0",
+  "description": "Learning Pixi",
+  "main": "src/index.js",
+  "repository": "https://github.com/andrewusher/learning-pixi",
+  "author": "Andrew Usher <andrewusher00@gmail.com>",
+  "license": "MIT"
+}
